@@ -1,0 +1,32 @@
+.scrollable{
+
+
+    width: 600px;
+    height: 600px;
+    overflow-x: scroll;
+    margin: 0 auto;
+}
+.fix{
+    position:fixed;
+}
+.checked{
+
+
+     background: #888;
+  color: #fff;
+  text-decoration: line-through;
+
+}  
+.bottom-form 
+{
+        margin: 0 auto;
+    width: 600px;
+    position: relative;
+}
+.special-btn{
+    position: absolute;
+    /* width: auto; */
+    bottom: 13px;
+    /* top: 9px; */
+    right: 0;
+}
